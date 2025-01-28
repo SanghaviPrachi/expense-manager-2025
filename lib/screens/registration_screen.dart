@@ -3,8 +3,7 @@ import 'package:expense_manager_2025/widgets/custom_text_field.dart';
 import 'package:expense_manager_2025/widgets/custom_button.dart';
 import 'package:expense_manager_2025/services/auth_service.dart';
 
-import '../ widgets/custom_button.dart';
-import '../ widgets/custom_text_field.dart';
+
 
 class RegistrationScreen extends StatelessWidget {
   const RegistrationScreen({Key? key}) : super(key: key);
